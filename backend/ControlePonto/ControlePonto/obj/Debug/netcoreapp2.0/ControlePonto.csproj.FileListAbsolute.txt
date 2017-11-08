@@ -1,0 +1,11 @@
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\bin\Debug\netcoreapp2.0\ControlePonto.deps.json
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\bin\Debug\netcoreapp2.0\ControlePonto.runtimeconfig.json
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\bin\Debug\netcoreapp2.0\ControlePonto.runtimeconfig.dev.json
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\bin\Debug\netcoreapp2.0\ControlePonto.dll
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\bin\Debug\netcoreapp2.0\ControlePonto.pdb
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\obj\Debug\netcoreapp2.0\ControlePonto.csprojResolveAssemblyReference.cache
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\obj\Debug\netcoreapp2.0\ControlePonto.csproj.CoreCompileInputs.cache
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\obj\Debug\netcoreapp2.0\ControlePonto.AssemblyInfoInputs.cache
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\obj\Debug\netcoreapp2.0\ControlePonto.AssemblyInfo.cs
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\obj\Debug\netcoreapp2.0\ControlePonto.dll
+C:\Users\Kleber\ControlePonto\backend\ControlePonto\ControlePonto\obj\Debug\netcoreapp2.0\ControlePonto.pdb
